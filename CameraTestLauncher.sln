@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NearField-Launcher", "NearField\NearField-Launcher.csproj", "{FC1DD08F-56DE-4F5B-B8CF-8C5D33C86837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFR300CM-Launcher", "SFR300CM\SFR300CM-Launcher.csproj", "{970721B3-EA01-403B-A35E-CB759BCA1423}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Waiting", "Waiting\Waiting.csproj", "{91CE3FE9-1267-44AB-831B-A3B8FAF59235}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC1DD08F-56DE-4F5B-B8CF-8C5D33C86837}.Debug|x86.ActiveCfg = Debug|x86
+		{FC1DD08F-56DE-4F5B-B8CF-8C5D33C86837}.Debug|x86.Build.0 = Debug|x86
+		{FC1DD08F-56DE-4F5B-B8CF-8C5D33C86837}.Release|x86.ActiveCfg = Release|x86
+		{FC1DD08F-56DE-4F5B-B8CF-8C5D33C86837}.Release|x86.Build.0 = Release|x86
+		{970721B3-EA01-403B-A35E-CB759BCA1423}.Debug|x86.ActiveCfg = Debug|x86
+		{970721B3-EA01-403B-A35E-CB759BCA1423}.Debug|x86.Build.0 = Debug|x86
+		{970721B3-EA01-403B-A35E-CB759BCA1423}.Release|x86.ActiveCfg = Release|x86
+		{970721B3-EA01-403B-A35E-CB759BCA1423}.Release|x86.Build.0 = Release|x86
+		{91CE3FE9-1267-44AB-831B-A3B8FAF59235}.Debug|x86.ActiveCfg = Debug|x86
+		{91CE3FE9-1267-44AB-831B-A3B8FAF59235}.Debug|x86.Build.0 = Debug|x86
+		{91CE3FE9-1267-44AB-831B-A3B8FAF59235}.Release|x86.ActiveCfg = Release|x86
+		{91CE3FE9-1267-44AB-831B-A3B8FAF59235}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

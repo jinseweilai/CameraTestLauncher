@@ -1,0 +1,7 @@
+D:\workspace\CameraTestLauncher\NearField\bin\Debug\NearField.exe
+D:\workspace\CameraTestLauncher\NearField\bin\Debug\NearField.pdb
+D:\workspace\CameraTestLauncher\NearField\obj\x86\Debug\NearField.Form1.resources
+D:\workspace\CameraTestLauncher\NearField\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\workspace\CameraTestLauncher\NearField\obj\x86\Debug\NearField.csproj.GenerateResource.Cache
+D:\workspace\CameraTestLauncher\NearField\obj\x86\Debug\NearField.exe
+D:\workspace\CameraTestLauncher\NearField\obj\x86\Debug\NearField.pdb

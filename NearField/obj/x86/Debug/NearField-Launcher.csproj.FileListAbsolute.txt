@@ -1,0 +1,43 @@
+D:\WorkSpace\CameraTestLauncher\NearField\bin\Debug\NearField Launcher.exe
+D:\WorkSpace\CameraTestLauncher\NearField\bin\Debug\NearField Launcher.pdb
+D:\WorkSpace\CameraTestLauncher\NearField\obj\x86\Debug\NearField.Form1.resources
+D:\WorkSpace\CameraTestLauncher\NearField\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\WorkSpace\CameraTestLauncher\NearField\obj\x86\Debug\NearField-Launcher.csproj.GenerateResource.Cache
+D:\WorkSpace\CameraTestLauncher\NearField\obj\x86\Debug\NearField Launcher.exe
+D:\WorkSpace\CameraTestLauncher\NearField\obj\x86\Debug\NearField Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0\NearField\obj\x86\Debug\NearField Launcher.exe
+D:\WorkSpace\CameraTestLauncher_2.0\NearField\obj\x86\Debug\NearField Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0\NearField\bin\Debug\NearField Launcher.exe
+D:\WorkSpace\CameraTestLauncher_2.0\NearField\bin\Debug\NearField Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0\NearField\obj\x86\Debug\NearField.Form1.resources
+D:\WorkSpace\CameraTestLauncher_2.0\NearField\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\WorkSpace\CameraTestLauncher_2.0\NearField\obj\x86\Debug\NearField-Launcher.csproj.GenerateResource.Cache
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\NearField\bin\Debug\NearField Launcher.exe
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\NearField\bin\Debug\NearField Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\NearField\obj\x86\Debug\NearField.Form1.resources
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\NearField\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\NearField\obj\x86\Debug\NearField-Launcher.csproj.GenerateResource.Cache
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\NearField\obj\x86\Debug\NearField Launcher.exe
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\NearField\obj\x86\Debug\NearField Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\NearField\obj\x86\Debug\NearField Launcher.exe
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\NearField\obj\x86\Debug\NearField Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\NearField\bin\Debug\NearField Launcher.exe
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\NearField\bin\Debug\NearField Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\NearField\obj\x86\Debug\NearField.Form1.resources
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\NearField\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\NearField\obj\x86\Debug\NearField-Launcher.csproj.GenerateResource.Cache
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\NearField\bin\Debug\NearField Launcher.exe
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\NearField\bin\Debug\NearField Launcher.pdb
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\NearField\obj\x86\Debug\NearField.Form1.resources
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\NearField\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\NearField\obj\x86\Debug\NearField-Launcher.csproj.GenerateResource.Cache
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\NearField\obj\x86\Debug\NearField Launcher.exe
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\NearField\obj\x86\Debug\NearField Launcher.pdb
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\NearField\obj\x86\Debug\NearField Launcher.exe
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\NearField\obj\x86\Debug\NearField Launcher.pdb
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\NearField\bin\Debug\NearField Launcher.exe
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\NearField\bin\Debug\NearField Launcher.pdb
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\NearField\obj\x86\Debug\NearField-Launcher.csprojResolveAssemblyReference.cache
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\NearField\obj\x86\Debug\NearField.Form1.resources
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\NearField\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\NearField\obj\x86\Debug\NearField-Launcher.csproj.GenerateResource.Cache

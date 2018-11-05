@@ -1,0 +1,43 @@
+D:\WorkSpace\CameraTestLauncher\SFR300CM\bin\Debug\SFR300CM Launcher.exe
+D:\WorkSpace\CameraTestLauncher\SFR300CM\bin\Debug\SFR300CM Launcher.pdb
+D:\WorkSpace\CameraTestLauncher\SFR300CM\obj\x86\Debug\NearField.Form1.resources
+D:\WorkSpace\CameraTestLauncher\SFR300CM\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\WorkSpace\CameraTestLauncher\SFR300CM\obj\x86\Debug\SFR300CM-Launcher.csproj.GenerateResource.Cache
+D:\WorkSpace\CameraTestLauncher\SFR300CM\obj\x86\Debug\SFR300CM Launcher.exe
+D:\WorkSpace\CameraTestLauncher\SFR300CM\obj\x86\Debug\SFR300CM Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0\SFR300CM\obj\x86\Debug\SFR300CM Launcher.exe
+D:\WorkSpace\CameraTestLauncher_2.0\SFR300CM\obj\x86\Debug\SFR300CM Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0\SFR300CM\bin\Debug\SFR300CM Launcher.exe
+D:\WorkSpace\CameraTestLauncher_2.0\SFR300CM\bin\Debug\SFR300CM Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0\SFR300CM\obj\x86\Debug\NearField.Form1.resources
+D:\WorkSpace\CameraTestLauncher_2.0\SFR300CM\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\WorkSpace\CameraTestLauncher_2.0\SFR300CM\obj\x86\Debug\SFR300CM-Launcher.csproj.GenerateResource.Cache
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\SFR300CM\bin\Debug\SFR300CM Launcher.exe
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\SFR300CM\bin\Debug\SFR300CM Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\SFR300CM\obj\x86\Debug\NearField.Form1.resources
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\SFR300CM\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\SFR300CM\obj\x86\Debug\SFR300CM-Launcher.csproj.GenerateResource.Cache
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\SFR300CM\obj\x86\Debug\SFR300CM Launcher.exe
+D:\WorkSpace\CameraTestLauncher_2.0.0.0\SFR300CM\obj\x86\Debug\SFR300CM Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\SFR300CM\bin\Debug\SFR300CM Launcher.exe
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\SFR300CM\bin\Debug\SFR300CM Launcher.pdb
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\SFR300CM\obj\x86\Debug\NearField.Form1.resources
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\SFR300CM\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\SFR300CM\obj\x86\Debug\SFR300CM-Launcher.csproj.GenerateResource.Cache
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\SFR300CM\obj\x86\Debug\SFR300CM Launcher.exe
+D:\WorkSpace\CameraTestLauncher_2.0.0.1\SFR300CM\obj\x86\Debug\SFR300CM Launcher.pdb
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\SFR300CM\bin\Debug\SFR300CM Launcher.exe
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\SFR300CM\bin\Debug\SFR300CM Launcher.pdb
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\SFR300CM\obj\x86\Debug\NearField.Form1.resources
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\SFR300CM\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\SFR300CM\obj\x86\Debug\SFR300CM-Launcher.csproj.GenerateResource.Cache
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\SFR300CM\obj\x86\Debug\SFR300CM Launcher.exe
+D:\WorkSpace\CameraTestLauncher\CameraTestLauncher_2.0.0.1\SFR300CM\obj\x86\Debug\SFR300CM Launcher.pdb
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\SFR300CM\bin\Debug\SFR300CM Launcher.exe
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\SFR300CM\bin\Debug\SFR300CM Launcher.pdb
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\SFR300CM\obj\x86\Debug\SFR300CM-Launcher.csprojResolveAssemblyReference.cache
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\SFR300CM\obj\x86\Debug\NearField.Form1.resources
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\SFR300CM\obj\x86\Debug\NearField.Properties.Resources.resources
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\SFR300CM\obj\x86\Debug\SFR300CM-Launcher.csproj.GenerateResource.Cache
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\SFR300CM\obj\x86\Debug\SFR300CM Launcher.exe
+D:\VSROOM\CameraTestLauncher\CameraTestLauncher\CameraTestLauncher_2.0.0.2\SFR300CM\obj\x86\Debug\SFR300CM Launcher.pdb
